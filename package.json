@@ -1,0 +1,13 @@
+{
+  "name": "sana-air-raid-alarm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "electron .",
+    "server": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
